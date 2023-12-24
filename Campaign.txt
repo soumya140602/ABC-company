@@ -1,0 +1,21 @@
+ABC's Google Search campaign
+performance for November and December 2023 (to date)
+
+
+Here I have analysed the data and come up with following results such as
+-> there were max clicks in general yoga in nov23
+->there were max clicks in bengaluru in nov23 
+->If we compare Campaign with location then 
+    .general yoga in bengaluru has maximum clicks and warangal in telangana has minimum clicks
+    .general yoga exact match in bengaluru has maximum clicks
+    .general yoga in bengaluru has maximum clicks
+    .physiotherapy in mumbai has maximum clicks
+    .prenatal, stress management and weightloss in bengaluru has maximum clicks 
+-> In DSA general yoga there were 3 replies on "Achieve pain free life with India's top physiotherapists from the comfort of your home".
+->In AdGroup1(general yoga watsapp) there were 2 replies on "Learning yoga is even more easier with our program specifically designed for beginners".
+->in stress there were 2 replies on "live 1 on 1 sessions guiding you through meditation techniques that foster relaxation"
+->in DSA general yoga there were maximum 2 removed out of 3
+->in general yoga they were 4 paused out of 7
+->general yoga is paused a lot 
+->In stress there were 2 replies on "ABC's sessions that guide you towards achieving mental calm and physical vitality".
+->In general yoga there were 2 replies on "Revitalize your mind, body and soul with ABC's comprehensive online yoga programs".
